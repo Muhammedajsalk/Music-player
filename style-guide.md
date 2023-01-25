@@ -88,6 +88,5 @@ Material icon
 ## Transition
 
 ``` css
---transition-1: 200ms cubic-bezier(0.2, 0, 0, 1);
---transition-2: 300ms cubic-bezier(0.2, 0, 0, 1);
+--transition-2: 300ms cubic-bezier(0.2, 0, 0, 1);--transition-1: 200ms cubic-bezier(0.2, 0, 0, 1);
 ```
